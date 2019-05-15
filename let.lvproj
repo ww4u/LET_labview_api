@@ -13,9 +13,6 @@
 		<Item Name="_write.vi" Type="VI" URL="../_write.vi"/>
 		<Item Name="api_demo.vi" Type="VI" URL="../api_demo.vi"/>
 		<Item Name="async_home.vi" Type="VI" URL="../async_home.vi"/>
-		<Item Name="buildconfig.vi" Type="VI" URL="../buildconfig.vi"/>
-		<Item Name="buildquery.vi" Type="VI" URL="../buildquery.vi"/>
-		<Item Name="buildrequest.vi" Type="VI" URL="../buildrequest.vi"/>
 		<Item Name="close.vi" Type="VI" URL="../close.vi"/>
 		<Item Name="config.vi" Type="VI" URL="../config.vi"/>
 		<Item Name="configgap.vi" Type="VI" URL="../configgap.vi"/>
@@ -56,6 +53,7 @@
 				<Item Name="Validate Semaphore Size.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Validate Semaphore Size.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="buildquery.vi" Type="VI" URL="../buildquery.vi"/>
 		</Item>
 		<Item Name="程序生成规范" Type="Build"/>
 	</Item>
