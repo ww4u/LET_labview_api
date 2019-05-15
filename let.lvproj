@@ -11,6 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="_write.vi" Type="VI" URL="../_write.vi"/>
+		<Item Name="api_demo.vi" Type="VI" URL="../api_demo.vi"/>
 		<Item Name="async_home.vi" Type="VI" URL="../async_home.vi"/>
 		<Item Name="buildconfig.vi" Type="VI" URL="../buildconfig.vi"/>
 		<Item Name="buildquery.vi" Type="VI" URL="../buildquery.vi"/>
@@ -21,8 +22,6 @@
 		<Item Name="configrst.vi" Type="VI" URL="../configrst.vi"/>
 		<Item Name="configrv.vi" Type="VI" URL="../configrv.vi"/>
 		<Item Name="continue.vi" Type="VI" URL="../continue.vi"/>
-		<Item Name="demo.vi" Type="VI" URL="../demo.vi"/>
-		<Item Name="demo_zigzag.vi" Type="VI" URL="../demo_zigzag.vi"/>
 		<Item Name="goto.vi" Type="VI" URL="../goto.vi"/>
 		<Item Name="home.vi" Type="VI" URL="../home.vi"/>
 		<Item Name="let.vi" Type="VI" URL="../let.vi"/>
