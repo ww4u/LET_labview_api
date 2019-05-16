@@ -38,6 +38,7 @@
 		<Item Name="waitx.vi" Type="VI" URL="../waitx.vi"/>
 		<Item Name="waitx2.vi" Type="VI" URL="../waitx2.vi"/>
 		<Item Name="write.vi" Type="VI" URL="../write.vi"/>
+		<Item Name="zigzag_demo.vi" Type="VI" URL="../zigzag_demo.vi"/>
 		<Item Name="依赖关系" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AddNamedSemaphorePrefix.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/AddNamedSemaphorePrefix.vi"/>
